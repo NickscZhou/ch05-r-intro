@@ -1,12 +1,16 @@
 # Exercise-1: practice with basic syntax
 
 # Create a variable `hometown` that stores the city in which you were born
+hometown <- "changsha"
 
 # Assign your name to the variable `my.name`
+my.name <- "Nick Zhou"
 
 # Assign your height to a variable `my.height`
+my.height <- 5.11
 
 # Create a variable `puppies` equal to the number of puppies you'd like to have
+puppies <- 2L
 
 # Create a variable `puppy.price`, which is how expensive you think a puppy is
 
